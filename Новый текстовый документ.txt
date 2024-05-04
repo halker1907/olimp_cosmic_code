@@ -1,0 +1,15 @@
+1 name: Ernst surname: Fischer age: 31 height: 180 weight: 85 eyesight: 1.0 education: Master english_language: true        
+2 name: Günther surname: Bauer age: 33 height: 170 weight: 65 eyesight: 1.0 education: PhD english_language: true
+3 name: Hans surname: Schmidt age: 35 height: 180 weight: 75 eyesight: 1.0 education: PhD english_language: true
+4 name: Karl surname: Lange age: 29 height: 165 weight: 75 eyesight: 1.0 education: Master english_language: true
+5 name: Otto surname: Krause age: 23 height: 155 weight: 60 eyesight: 1.0 education: PhD english_language: true
+6 name: Wilhelm surname: Wolf age: 44 height: 175 weight: 70 eyesight: 1.0 education: PhD english_language: true
+7 name: Alessandro surname: De Luca age: 33 height: 170 weight: 65 eyesight: 1.0 education: PhD english_language: true 
+8 name: Davide surname: Colombo age: 23 height: 155 weight: 60 eyesight: 1.0 education: PhD english_language: true
+9 name: Enzo surname: Marino age: 44 height: 175 weight: 70 eyesight: 1.0 education: PhD english_language: true
+10 name: Giovanni surname: Ricci age: 35 height: 180 weight: 75 eyesight: 1.0 education: PhD english_language: true
+11 name: Riccardo surname: Rizzo age: 29 height: 165 weight: 75 eyesight: 1.0 education: Master english_language: true      
+12 name: Simone surname: Pellegrini age: 31 height: 180 weight: 85 eyesight: 1.0 education: Master english_language: true
+13 name: Avery surname: Johnson age: 45 height: 170 weight: 90 eyesight: 1.0 education: Master english_language: true
+14 name: Evelyn surname: Davis age: 51 height: 190 weight: 85 eyesight: 1.0 education: PhD english_language: true     
+15 name: Wyatt surname: Wilson age: 39 height: 175 weight: 75 eyesight: 1.0 education: Master english_language: true  
